@@ -1,0 +1,14 @@
+.pagination > li > a {
+  color: black;
+}
+.page {
+  align-items: center;
+  margin: 2rem;
+  display: flex;
+  flex: 1;
+}
+.pagination {
+  align-items: center;
+  width: 100%;
+  padding-left: 40rem;
+}
